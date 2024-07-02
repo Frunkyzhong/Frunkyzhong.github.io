@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhongxiang Wang's Personal Homepage"
+title                    : "Zhong's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhongxiang Wang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "frunkyzhong/frunkyzhong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhongxiang Wang(王忠祥)"
+  name             : "Zhongxiang Wang"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Philadelphia"
