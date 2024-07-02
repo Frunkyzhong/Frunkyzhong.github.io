@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 You can download a PDF copy of my CV [here](../assets/Curriculum_Vitae.pdf). 
