@@ -14,4 +14,4 @@ You can find my CV here: [Zhongxiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 **I’m actively seeking opportunities to pursue a Ph.D. degree starting in the Fall of 2025.**
 
-[Email](zwang380@seas.upenn.edu) / [Github](https://github.com/frunkyzhong) / [Wechat](../images/wechat.jpg)
+
