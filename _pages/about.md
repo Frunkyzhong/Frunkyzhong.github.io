@@ -7,11 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
+👋 Hello there, I’m Zhongxiang!
 
-I obtained my master's degree from the [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. Rakesh Vohra. Before that, I got my B.S. degree with an honor in Computer Science from the [University of Iowa](https://uiowa.edu/) and B.A. degree in Mathematica.
+🎓 MSE Graduate in Electrical Engineering from the [University of Pennsylvania](https://www.upenn.edu/).
+🎓 B.S. degree with Honors in Computer Science and a B.A. in Mathematics from the [University of Iowa](https://uiowa.edu/).
 
-You can find my CV here: [Zhongxiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 
+🔬 Research interests: Optimization, Emotionally Expressive AI, Multi-Agent Collaboration.
 
-**I’m actively seeking opportunities to pursue a Ph.D. degree starting in the Fall of 2025.**
+📚 I'm currently working on mapping a neural network to a SAT problem.
+
+🎯 Actively seeking Ph.D. opportunities starting Fall 2025.
+
+## 👨🏻‍🔬 Professional Experience
+**Student Researcher**  
+*University of Pennsylvania, Advisor: Prof. Pratik Chaudhari*  
+- Working on **SAT Problems**, focusing on enhancing computational efficiency.
+
+**Master’s Thesis**  
+*University of Pennsylvania, Advisor: Prof. Rakesh Vohra*  
+- Explored **Optimization and Decision-Making Algorithms**, contributing to advances in search strategies.
 
 
+
+---
+Feel free to look at my specific [portfolio entry](https://frunkyzhong.github.io/portfolio/).
+
+🛠️ Note: This website is currently being updated. Stay tuned for more details!
